@@ -19,5 +19,5 @@ Student ERP System is a **Java-based** application designed for managing student
 ## 📂 Project Setup
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/Student-ERP-System.git
+git clone https://github.com/bjg2003/Student-ERP-System.git
 cd Student-ERP-System
